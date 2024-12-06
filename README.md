@@ -106,9 +106,7 @@ Feel free to contribute to this project by opening an issue or submitting a pull
 
 Resources for further reading and collaboration:
 
-- [Link 1](https://chatgpt.com/c/6752b2e8-0740-800b-afbd-0155afd2f15f#)
-- [Link 2](https://chatgpt.com/c/6752b2e8-0740-800b-afbd-0155afd2f15f#)
-- [Link 3](https://chatgpt.com/c/6752b2e8-0740-800b-afbd-0155afd2f15f#)
+- [Paradigm Scale](https://dikhimartin.vercel.app/projects/paradigm-scales)
 
 ## License
 
