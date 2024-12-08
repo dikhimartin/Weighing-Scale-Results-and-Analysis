@@ -20,8 +20,8 @@ Ensure that **Miniconda** or **Anaconda** is installed on your system, along wit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dikhimartin/iot-digital-scale-agriculture.git
-   cd iot-digital-scale-agriculture
+   git clone https://github.com/dikhimartin/Weighing-Scale-Results-and-Analysis.git
+   cd Weighing-Scale-Results-and-Analysis
    ```
 
 2. **Create the Conda environment from the `environment.yml` file:**
